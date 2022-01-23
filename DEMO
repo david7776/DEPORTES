@@ -9,14 +9,8 @@ http://45.160.73.129:8888/play/a04j/index.m3u8
 http://45.160.73.129:8888/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="goltv.ec" tvg-name="GOLTV SD" tvg-logo="" group-title="TV | GOLTV SD
 http://45.160.73.129:8888/play/a04q/index.m3u8
-#EXTINF:-1 tvg-id="directv.ec" tvg-name="DIRECTV HD" tvg-logo="" group-title="TV | DIRECTV HD
-http://41404710210165359.nice.playerlifes.xyz/live/v21003/3009229/245423.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="FX HD" tvg-logo="" group-title="TV | FX HD
 http://41404710210165359.nice.playerlifes.xyz/live/v21003/3009229/262089.m3u8
-#EXTINF:-1 tvg-id="hbo.ec" tvg-name="HBO HD" tvg-logo="" group-title="TV | HBO HD
-http://41404710210165359.nice.playerlifes.xyz/live/v21003/3009229/262098.m3u8
-#EXTINF:-1 tvg-id="space.ec" tvg-name="SPACE HD" tvg-logo="" group-title="TV | SPACE HD
-http://41404710210165359.nice.playerlifes.xyz/live/v21003/3009229/262125.m3u8
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="A&E HQ" tvg-logo="" group-title="TV | A&E HQ
 http://iptvmedia.live:8080/live/FM10008/ee54fb4b/9117.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="ESPN HQ" tvg-logo="" group-title="TV | ESPN HQ
@@ -27,3 +21,5 @@ http://201.182.242.135:12002/play/a09d/index.m3u8
 http://190.108.83.142:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="ecdf.ec" tvg-name="EL CANAL DEL FUTBOL FHD" tvg-logo="" group-title="TV | EL CANAL DEL FUTBOL FHD
 http://201.182.242.135:12002/play/a0aj/index.m3u8
+#EXTINF:-1 tvg-id="space.ec" tvg-name="SPACE FHD" tvg-logo="" group-title="TV | SPACE FHD
+http://201.182.242.135:12001/play/a09b/index.m3u8
